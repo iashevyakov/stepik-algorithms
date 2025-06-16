@@ -1,2 +1,3 @@
 # stepik-algorithms
-https://stepik.org/course/217/syllabus
+
+Решение задач по курсу алгоритмов от Computer Science Center: https://stepik.org/course/217/syllabus
